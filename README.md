@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aline</h1>
 <h3 align="center">A passionate frontend developer from Limeira - SP, Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alinevajalegre" alt="alinevajalegre" /></a> </p>
-
-- 🔭 I’m currently working on **Pontomais tecnologia**
+- 🔭 I’m currently working on **Pontomais Tecnologia** as a Front-end Developer
 
 - 🌱 I’m currently learning **Angular, React, Typescript, Swift**
 
