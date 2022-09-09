@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **Pontomais Tecnologia** as a Front-end Developer
 
-- 🌱 I’m currently learning **Angular, React, Typescript, Swift**
+- 🌱 I’m currently learning **Angular, React, Typescript and Swift**
+
+- :books: Systems analysis and development undergraduate student at University of Campinas (UNICAMP)
 
 - 📫 How to reach me **alinevajalegre@hotmail.com**
 
