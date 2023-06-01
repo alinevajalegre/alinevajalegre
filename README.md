@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aline</h1>
 <h3 align="center">A passionate frontend developer from Limeira - SP, Brazil</h3>
 
-- 🔭 I’m currently working on **Pontomais Tecnologia** as a Front-end Developer
+- 🔭 I’m currently learning **Angular, Python, Typescript and Swift**
 
-- 🌱 I’m currently learning **Angular, React, Typescript and Swift**
+- 💙 I love **test automation**
 
 - :books: Systems analysis and development undergraduate student at University of Campinas (UNICAMP)
 
