@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently learning **Angular, Python, Typescript and Swift**
 
-- 💙 I love **test automation**
-
 - :books: Systems analysis and development undergraduate student at University of Campinas (UNICAMP)
 
 - 📫 How to reach me **alinevajalegre@hotmail.com**
