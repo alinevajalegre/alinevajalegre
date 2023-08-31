@@ -5,7 +5,7 @@
 
 - :books: Systems analysis and development undergraduate student at University of Campinas (UNICAMP)
 
-- 📫 How to reach me **alinevajalegre@hotmail.com**
+- 📫 How to reach me **https://linkedin.com/in/alinevajalegre**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
