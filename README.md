@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aline</h1>
-<h3 align="center">A passionate frontend developer from Limeira - SP, Brazil</h3>
+<h3 align="center">A passionate frontend developer from São Paulo, Brazil</h3>
 
 - 🔭 I’m currently learning **Angular, Python, Typescript and Swift**
 
