@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aline</h1>
-<h3 align="center">A passionate frontend developer from São Paulo, Brazil</h3>
+<h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently learning **Angular, Python, Typescript and Swift**
+- 🔭 I’m currently learning **Angular, React, Python and Typescript**
 
-- :books: Systems analysis and development undergraduate student at University of Campinas (UNICAMP)
+- :books: Graduated in Analysis and Systems Development from the University of Campinas (UNICAMP)
 
-- 📫 How to reach me **https://linkedin.com/in/alinevajalegre**
+- 📫 How to reach me: **https://linkedin.com/in/alinevajalegre**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
